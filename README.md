@@ -2,7 +2,7 @@
 For login
 user name = abdul
 password = rahman
-Created using C++
+# Created using C++
 • First Login through Hospital Administration
 • We can enter the record of new patients and 
 retrieve the details of patients & and which doctor 
