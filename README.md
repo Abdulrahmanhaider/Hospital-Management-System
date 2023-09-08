@@ -1,4 +1,7 @@
 # Hospital-Management-System
+For login
+user name = abdul
+password = rahman
 Created using C++
 • First Login through Hospital Administration
 • We can enter the record of new patients and 
